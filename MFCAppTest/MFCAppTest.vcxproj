@@ -187,6 +187,7 @@
   <ItemGroup>
     <ClInclude Include="ClassView.h" />
     <ClInclude Include="FileView.h" />
+    <ClInclude Include="firstclass.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="MFCAppTest.h" />
     <ClInclude Include="MFCAppTestDoc.h" />
@@ -201,6 +202,7 @@
   <ItemGroup>
     <ClCompile Include="ClassView.cpp" />
     <ClCompile Include="FileView.cpp" />
+    <ClCompile Include="firstclass.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="MFCAppTest.cpp" />
     <ClCompile Include="MFCAppTestDoc.cpp" />
