@@ -202,7 +202,6 @@
   <ItemGroup>
     <ClCompile Include="ClassView.cpp" />
     <ClCompile Include="FileView.cpp" />
-    <ClCompile Include="firstclass.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="MFCAppTest.cpp" />
     <ClCompile Include="MFCAppTestDoc.cpp" />
